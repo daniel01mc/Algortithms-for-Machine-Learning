@@ -1,0 +1,3 @@
+Introduction to Algorithms for Machine Learning class.
+
+Regression, Decision tress, Regularizations, Boosters, Data Cleaning...
